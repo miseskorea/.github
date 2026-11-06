@@ -1,4 +1,4 @@
-<img src="https://miseskorea.org/api/files/pbc_3945946014/isr1rgbk4ehhuq0/9d19df5511665d65bc9227f68f50efaa2624fa4eefd9a707078991bdfb48de75_ipcxtgd10u.png">
+<img src="https://api.miseskorea.org/api/files/pbc_3945946014/isr1rgbk4ehhuq0/9d19df5511665d65bc9227f68f50efaa2624fa4eefd9a707078991bdfb48de75_ipcxtgd10u.png">
 
 ### 미제스 연구소는 고전적 자유주의 전통에 기반해 있는<br>오스트리아학파 경제학, 자유, 그리고 번영의 증진을 위해<br>헌신하는 교육기관입니다.
 
